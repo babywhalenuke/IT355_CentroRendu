@@ -1,0 +1,7 @@
+[10-Oct-2017 21:13:37 America/Chicago] PHP Warning:  include(/home/costrander/public_html/355/cro/vendor/composer/../bcosca/fatfree-core/session.php): failed to open stream: No such file or directory in /home/costrander/public_html/355/cro/vendor/composer/ClassLoader.php on line 444
+[10-Oct-2017 21:13:37 America/Chicago] PHP Warning:  include(/home/costrander/public_html/355/cro/vendor/composer/../bcosca/fatfree-core/session.php): failed to open stream: No such file or directory in /home/costrander/public_html/355/cro/vendor/composer/ClassLoader.php on line 444
+[10-Oct-2017 21:13:37 America/Chicago] PHP Warning:  include(): Failed opening '/home/costrander/public_html/355/cro/vendor/composer/../bcosca/fatfree-core/session.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home/costrander/public_html/355/cro/vendor/composer/ClassLoader.php on line 444
+[10-Oct-2017 21:13:37 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Session' not found in /home/costrander/public_html/355/cro/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/costrander/public_html/355/cro/index.php on line 6
