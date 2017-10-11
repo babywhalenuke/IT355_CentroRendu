@@ -1,0 +1,27 @@
+{
+	"name": "CRO",
+	"authors":[
+		{
+			"name": "Jeff Pratt",
+			"email": "jpratt14@mail.greenriver.edu"
+		},
+    {
+			"name": "Patrick Callahan",
+			"email": "pcallahan3@mail.greenriver.edu"
+		},
+    {
+			"name": "Kevin",
+			"email": "kevin.locke90@gmail.com"
+		},
+		{
+			"name": "Caleb Ostrander",
+			"email": "costrander@mail.greenriver.edu"
+		}
+	],
+	"require":{
+		"bcosca/fatfree-core": "dev-master"
+	},
+	"autoload":{
+        "classmap":["model/"]
+    }
+}
